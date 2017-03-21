@@ -3,8 +3,8 @@
 # Change parameters according to your environment
 # follow process on portal in order to generate SAS token
 #
-storageaccount="mystg1"
-resourcegroup="myrg1"
+storageaccount="mystg123"
+resourcegroup="myrg123"
 keytorenew="--secondary" #use --primary or --secondary
 sassvcperm="b"
 sasrestype="c"

@@ -2,9 +2,9 @@
 
 # Change parameters according to your environment
 # follow process on portal in order to generate SAS token
-storageaccount="mystg1"
-sourcesas="sv=2015-04-05&ss=bfqt&srt=sco&sp=rwdlacup&se=2016-08-20T05:22:34Z&st=2016-08-19T21:02:34Z&spr=https&sig=6ZUP8kZGrnmd8l2FTj24ciYdh1fdGTENkGlmWxzR940%3D"
-sourceuri="https://mystg1.blob.core.windows.net/golden-images/CentOS7miniOL.vhd"
+storageaccount="mystg123"
+sourcesas="sv=rwdlacup&se=2016-08-20T05:22:34Z&st=2016-08-19T21:02:34Z&spr=https&sig=6ZUP8kZGrnmd8l2FTj24ciYdh1fdGTENkGlmWxzR940%3D"
+sourceuri="https://mystg123l.blob.core.windows.net/golden-images/CentOS7miniOL.vhd"
 destcontainer="vhds"
 destblob="CentOS7-TestSAS8.vhd"
 
